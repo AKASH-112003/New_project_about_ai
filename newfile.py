@@ -1,1 +1,1 @@
-"I am created for sample work about git"
+"new project release version is 3.12"
